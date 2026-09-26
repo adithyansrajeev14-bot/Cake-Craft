@@ -1,0 +1,6 @@
+{
+  "name": "Cake Craft | 100% Eggless Artisanal Bakery Kosi Kalan",
+  "description": "Artisanal 100% pure eggless celebration cakes, designer bento cakes, and custom treats baked fresh to order in Kosi Kalan. Pre-order 1 day in advance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
